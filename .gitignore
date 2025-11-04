@@ -1,0 +1,19 @@
+# Node modules
+node_modules/
+
+# Expo / React Native
+.expo/
+.expo-shared/
+*.expo
+*.log
+android/
+ios/
+
+# Environment files
+.env
+plan-buddy-app/.env
+server/.env
+
+# OS files
+.DS_Store
+Thumbs.db

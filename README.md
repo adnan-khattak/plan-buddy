@@ -12,7 +12,7 @@ This project includes:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/plan-buddy.git
+git clone https://github.com/adnan-khattak/plan-buddy
 cd plan-buddy
 
 ### 2️⃣ Backend Setup (Server)
